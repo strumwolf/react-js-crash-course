@@ -22,7 +22,7 @@ class Todos extends Component {
 }
 
 Todos.propTypes = {
-  todoItems: React.PropTypes.array
+  todos: React.PropTypes.array
 }
 
 export default Todos;
